@@ -1,5 +1,5 @@
 
-## TEAM GROUND RULE - 힘찬 유니콘 🦄❤️‍🔥
+## TEAM GROUND RULE - 스타트 11. 힘찬 유니콘 🦄❤️‍🔥
 
 
 ### 1. 회의
