@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### TEAM GROUND RULE
+## TEAM GROUND RULE
 
 
 - 회의
