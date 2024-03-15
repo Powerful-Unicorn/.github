@@ -1,6 +1,5 @@
-## Hi there 👋
 
-## TEAM GROUND RULE
+## TEAM GROUND RULE - 힘찬 유니콘 🦄❤️‍🔥
 
 
 - 회의
