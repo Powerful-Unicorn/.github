@@ -1,30 +1,37 @@
-# TEAM REPOSITORY - 스타트 11. 힘찬 유니콘 🦄❤️‍🔥
+# FoodieBuddy😋
+**Dietary Restrictions을 가진 외국인을 위한 생성형 AI 기반 맞춤형 한식 정보 제공 서비스**
 
-## ☑️ 레포지토리 구성
-**FoodieBuddy_Client**
-> **클라이언트(iOS)** 개발 코드를 저장하는 레포지토리.
-> 충돌 방지와 롤백의 용이성을 위해 main branch 와 별개의 dev branch를 생성하여 개발 진행.
+## 프로젝트 개요
+- **과제명:** Dietary Restrictions을 고려한 맞춤형 한식 정보 제공 채팅 앱 서비스  
+- **팀 이름:** 11-힘찬유니콘  
+- **팀 구성:**  
+  - 손민서 (리더, 백엔드)  
+  - 도하연 (프론트엔드)  
+  - 정지후 (AI)  
+- **과제 키워드:**  
+  - Dietary Restrictions  
+  - 텍스트/이미지 생성형 AI  
+  - 멀티모달  
 
-**FoodieBuddy_Server**
-> **서버(SpringBoot)** 개발 코드를 저장하는 레포지토리.
-> 계층형 구조로 프로젝트 내부의 디렉터리를 구성.
+## 프로젝트 소개
 
-**FoodieBuddy_AI**
-  >**각 기술 요소 구현 코드를 담은 디렉토리**와 기술 요소들을 **서비스에 맞추어 종합한 코드를 담은 디렉토리**로 구성
+### 1. 문제 정의
+한국에서 생활하는 **dietary restrictions**을 가진 외국인들이 한식 정보에 접근하기 어려운 문제를 해결하기 위해, FoodieBuddy는 다음과 같은 주요 기능을 제공합니다:  
+1. **메뉴판 사진 설명:** 메뉴 이름을 발음과 함께 의역, dietary restrictions와 연관된 정보를 강조.  
+2. **밑반찬 사진 설명:** 밑반찬의 상세 정보와 dietary restrictions 확인.  
+3. **맞춤형 한식 추천:** 사용자의 dietary restrictions를 기반으로 적합한 메뉴 추천.  
+4. **메뉴 이미지 생성:** 추천 메뉴나 관심 메뉴에 대해 Stable Diffusion을 활용한 이미지 제공.  
+5. **메뉴 북마크 및 별점 기능:** 즐겨찾기 및 별점 기록 관리.  
 
-## ☑️ 팀원 소개
-- 도하연: Frontend
-- 손민서: Backend
-- 정지후: AI
+### 2. 기대 효과
+- **정보 접근성 향상:** Dietary restrictions을 가진 외국인들이 한식 정보를 쉽게 얻을 수 있도록 돕습니다.  
+- **문화적 이해 증진:** 외국인들이 한식의 매력을 더 잘 이해하고 경험할 기회를 제공합니다.  
+- **안전하고 효율적인 음식 선택:** 사용자가 본인에게 맞는 메뉴를 안전하고 간편하게 선택할 수 있는 도구 제공.  
+- **한국 생활 적응 지원:** 한식과 관련된 긍정적인 경험을 통해 외국인의 한국 생활 적응을 돕습니다.  
 
+### 3. 기술 활용
+- **AI 모델:** Gpt-4o, Stable Diffusion  
+- **API 연동:** 농촌진흥청 식재료 데이터 API  
+- **멀티모달 지원:** 텍스트 및 이미지 기반 분석  
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+FoodieBuddy는 한국 생활에서의 **식문화 장벽을 해소**하고 외국인들이 한국에서 **풍부한 한식 경험을 즐길 수 있는 도구**를 제공합니다.
