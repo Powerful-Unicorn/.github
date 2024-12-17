@@ -3,10 +3,11 @@
 
 ## 프로젝트 개요
 - **과제명:** Dietary Restrictions을 고려한 맞춤형 한식 정보 제공 채팅 앱 서비스  
-- **팀 이름:** 11-힘찬유니콘  
-- 손민서 (리더, 백엔드) [Server_Repo](https://github.com/Powerful-Unicorn/FoodieBuddy_Server) [Server_Chat_Repo](https://github.com/Powerful-Unicorn/FoodieBuddy_Server_Chat)
-- 도하연 (프론트엔드) [Client_Repo](https://github.com/Powerful-Unicorn/FoodieBuddy_Client)
-- 정지후 (AI) [AI_Repo](https://github.com/Powerful-Unicorn/FoodieBuddy_AI)
+- **팀 이름:** 11-힘찬유니콘
+- **팀원:**  
+  - 손민서 (리더, 백엔드) [Server_Repo](https://github.com/Powerful-Unicorn/FoodieBuddy_Server) [Server_Chat_Repo](https://github.com/Powerful-Unicorn/FoodieBuddy_Server_Chat)
+  - 도하연 (프론트엔드) [Client_Repo](https://github.com/Powerful-Unicorn/FoodieBuddy_Client)
+  - 정지후 (AI) [AI_Repo](https://github.com/Powerful-Unicorn/FoodieBuddy_AI)
 - **과제 키워드:**  
   - Dietary Restrictions  
   - 텍스트/이미지 생성형 AI  
