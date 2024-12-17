@@ -35,3 +35,4 @@
 - **멀티모달 지원:** 텍스트 및 이미지 기반 분석  
 
 FoodieBuddy는 한국 생활에서의 **식문화 장벽을 해소**하고 외국인들이 한국에서 **풍부한 한식 경험을 즐길 수 있는 도구**를 제공합니다.
+<img width="761" alt="Screenshot 2024-12-17 at 11 41 47 PM" src="https://github.com/user-attachments/assets/f12d33b9-8b28-4ad2-9ab7-d30261a5dc5a" />
